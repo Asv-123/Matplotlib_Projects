@@ -1,3 +1,5 @@
+"""The CSV file labed raindata is used for this project."""
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
